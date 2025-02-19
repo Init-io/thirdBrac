@@ -17,7 +17,7 @@ Just download `thirdBrac.java` and add it to your project.
 ---
 ## **📌 Quick Example**
 ```java
-import thirdBrac;
+import io.github.initio.thirdBrac.thirdBrac;
 
 public class Main {
     public static void main(String[] args) {
