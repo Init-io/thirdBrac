@@ -1,4 +1,8 @@
 # **🔥 thirdBrac - Pythonic Lists in Java (v1.0.0) 🔥**  
+![Maven Central](https://img.shields.io/maven-central/v/io.github.init-io/thirdBrac.svg?label=Maven%20Central)
+![GitHub Release](https://img.shields.io/github/v/release/init-io/thirdBrac?label=release)
+[![License](https://img.shields.io/github/license/init-io/thirdBrac)](LICENSE)
+![downloads](https://img.shields.io/badge/downloads-1k%2Fmonth-brightgreen)
 
 **🚀 A fully Python-style list implementation for Java!**   
 Now you can use lists like a **Python pro in Java!** 🎉  
